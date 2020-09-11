@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/lucvankerkvoort/Luc-van-kerkvoort-Portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/lucvankerkvoort/Luc-van-kerkvoort-Portfolio/issues"
   },
-  "homepage": "https://github.com/lucvankerkvoort/Luc-van-kerkvoort-Portfolio ",
+  "homepage": "https://lucvankerkvoort.github.io/Luc-van-kerkvoort-Portfolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
